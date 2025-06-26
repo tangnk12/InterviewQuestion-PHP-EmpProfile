@@ -44,3 +44,5 @@ Simple php test to create and display employee profile
 - Clean code and good practise
 - Good UI UX
 
+
+## under backend file, should run  php -S localhost:8080 to host localhost if have php environment
