@@ -1,0 +1,38 @@
+[
+    {
+        "employeeName": "Tang Ning Kang",
+        "gender": "Male",
+        "martialStatus": "Single",
+        "phoneNo": "011-31740339",
+        "email": "ningkangtang82@gmail.com",
+        "address": "3,Taman Desa Indah",
+        "dateOfBirth": "2025-06-26",
+        "nationality": "Malaysia",
+        "hireDate": "2025-06-26",
+        "department": "Dev"
+    },
+    {
+        "employeeName": "Tan Yong Qi",
+        "gender": "Male",
+        "martialStatus": "Single",
+        "phoneNo": "011-31740339",
+        "email": "tanyongqi@gmail.com",
+        "address": "3,Taman Desa Indah",
+        "dateOfBirth": "2025-06-26",
+        "nationality": "Malaysia",
+        "hireDate": "2025-06-26",
+        "department": "Dev"
+    },
+    {
+        "employeeName": "asasa",
+        "gender": "Male",
+        "martialStatus": "Single",
+        "phoneNo": "sas",
+        "email": "ningkangtang82@gmail.com",
+        "address": "3,Taman Desa Indah",
+        "dateOfBirth": "2025-06-27",
+        "nationality": "Malaysia",
+        "hireDate": "2025-06-27",
+        "department": "dada"
+    }
+]
